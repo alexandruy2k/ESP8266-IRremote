@@ -13,3 +13,6 @@ These requests can be generated using curl, an online form generator or as I per
 Samsung SmartThings hub.
 The DTH can be found in this repo https://github.com/alexandruy2k/Smartthings/tree/master/devicetypes/abuda
 
+using IRremoteESP8266 version=2.7.6 and for the hardware using a Nodemcu board with a ESP-12F module on board
+
+Arduino IDE configured to use NodeMCU 1.0 Board with buildin led 16, upload speed 115200, 80MHz CPU and 4MB flash size
